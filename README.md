@@ -25,6 +25,6 @@ Track your income and expenses from the command line! A beginner-friendly Python
 
 ## 👨‍💻 Author
 Manoj Kumar  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername]([https://github.com/yourusername](https://github.com/manoj11005))
 
 
