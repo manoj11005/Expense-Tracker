@@ -17,6 +17,10 @@ Track your income and expenses from the command line! A beginner-friendly Python
 
 ## 📄 Sample CSV Data
 
+Date,Type,Category,Amount,Note
+2025-06-25,Income,Salary,50000,June Payment
+2025-06-26,Expense,Food,300,Dinner
+
 
 ## 💡 Future Ideas
 - Bar chart of monthly expenses
