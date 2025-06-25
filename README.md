@@ -16,3 +16,15 @@ Track your income and expenses from the command line! A beginner-friendly Python
 3. Use the menu to add/view transactions
 
 ## 📄 Sample CSV Data
+
+
+## 💡 Future Ideas
+- Bar chart of monthly expenses
+- GUI with Tkinter
+- Switch from CSV to SQLite
+
+## 👨‍💻 Author
+Manoj Kumar  
+GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+
